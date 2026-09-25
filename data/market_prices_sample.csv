@@ -1,0 +1,4 @@
+state,district,market,commodity,date,min_price,max_price,modal_price,unit
+Tamil Nadu,Coimbatore,Coimbatore,Tomato,2026-09-01,1800,2600,2200,INR/quintal
+Tamil Nadu,Coimbatore,Coimbatore,Groundnut,2026-09-01,6000,7200,6600,INR/quintal
+Tamil Nadu,Coimbatore,Coimbatore,Maize,2026-09-01,2100,2450,2300,INR/quintal

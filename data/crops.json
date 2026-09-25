@@ -1,0 +1,8 @@
+[
+  {"crop":"Tomato","soil_types":["loamy","red","sandy loam"],"planting_months":[6,7,8,9,10,11],"water_requirement":"medium","duration_days":110,"market_note":"Use live mandi data before making a harvest-price decision."},
+  {"crop":"Groundnut","soil_types":["sandy","red","sandy loam"],"planting_months":[6,7,8,9],"water_requirement":"low","duration_days":110,"market_note":"Use seasonal mandi history for the expected harvest month."},
+  {"crop":"Paddy","soil_types":["clay","loamy","alluvial"],"planting_months":[6,7,8,9],"water_requirement":"high","duration_days":130,"market_note":"Market outlook must use the target district/mandi and harvest period."},
+  {"crop":"Black gram","soil_types":["loamy","red","sandy loam"],"planting_months":[6,7,8,9,10],"water_requirement":"low","duration_days":80,"market_note":"Check historical arrivals and modal price near expected harvest."},
+  {"crop":"Chilli","soil_types":["loamy","red","sandy loam"],"planting_months":[6,7,8,9,10],"water_requirement":"medium","duration_days":150,"market_note":"Price volatility can be high; use current market data before planting."},
+  {"crop":"Maize","soil_types":["loamy","red","sandy loam"],"planting_months":[6,7,8,9,10],"water_requirement":"medium","duration_days":100,"market_note":"Compare historical harvest-season prices and arrivals."}
+]
